@@ -4,7 +4,7 @@
 #
 Name     : go-github.com-spf13-cobra
 Version  : v0.0.3
-Release  : 1
+Release  : 2
 URL      : https://proxy.golang.org/github.com/spf13/cobra/@v/list
 Source0  : https://proxy.golang.org/github.com/spf13/cobra/@v/list
 Source1  : https://proxy.golang.org/github.com/spf13/cobra/@v/v0.0.3.info
